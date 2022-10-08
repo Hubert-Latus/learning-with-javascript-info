@@ -3,4 +3,4 @@ let message = (login == 'Emplayee') ? 'Hello' :
 (login == '') ? 'No login' :
 '';
 
-alert( message);
+alert( message );
